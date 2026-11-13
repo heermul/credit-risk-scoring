@@ -17,7 +17,7 @@ An end-to-end machine learning credit risk scoring system trained on **300,000+ 
 
 ## Tech Stack
 * **Modeling & Explainability:** Python, LightGBM, Scikit-Learn, Pandas, NumPy, SHAP
-* **Backend & Deployment:** FastAPI, Pydantic, Uvicorn, Docker, Hugging Face Spaces
+* **Backend & Deployment:** FastAPI, Pydantic, Uvicorn, Docker, Render
 
 ## Project Structure
 ```text
