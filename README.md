@@ -1,5 +1,8 @@
 # Credit Risk Scoring Engine & Explainable Underwriting API
 
+**Live Interactive API (Swagger UI):** https://credit-risk-scoring-91ob.onrender.com/docs  
+*(Note: Hosted on Render free tier—first request may take ~30 seconds to wake up).*
+
 An end-to-end machine learning credit risk scoring system trained on **300,000+ LendingClub loans** to predict borrower default probability at loan origination, paired with a cost-sensitive decision threshold and FCRA-compliant **SHAP** adverse action reason codes.
 
 ## Key Highlights & Business Impact
